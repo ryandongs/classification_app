@@ -1,0 +1,2 @@
+0, mud
+1, normal
